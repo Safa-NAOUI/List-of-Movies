@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">List of Movies</string>
+
+    <string name="hint_movie">Add new Movie</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Movie not saved because it is empty.</string>
+    <string name="add_wmvoie">Add movie</string>
+    <string name="no_data_found">No Data found</string>
+</resources>
